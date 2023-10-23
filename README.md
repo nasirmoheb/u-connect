@@ -19,7 +19,7 @@ U-Connect is a university-level social-educational web application that allows s
 
 ## Screenshots
 
-![App Screenshot](https://github.com/nasirmoheb/u-connect/sample/1.png)
+![App Screenshot](https://github.com/nasirmoheb/u-connect/blob/master/sample/1.png)
 
 ## Installation
 
